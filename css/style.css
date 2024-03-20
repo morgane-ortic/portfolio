@@ -59,6 +59,7 @@ header {
 
 .reason img {
     max-width: 760px;
+    border-radius: 15px;
 }
 
 .highlight {
